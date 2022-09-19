@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Fascinate+Inline&family=Fasthand&display=swap');
+
+
+body {
+    background-color: rgb(253, 182, 182);
+}
+
+.heading {
+    text-align: center;
+    font-family: 'Fasthand', cursive;
+    font-size: 4rem;
+}
+
+.playground-heading {
+    color: rgba(255, 0, 0, 0.329);
+}
+
+.main {
+    border: 2px solid grey;
+    width: 25%;
+    margin: 1rem auto;
+    background-color: rgb(37, 37, 37);
+}
+
+.main div {
+    height: 200px;
+    width: 200px;
+    border: 1px solid white;
+    border-radius: 50%;
+    margin: 1rem auto;
+}
+
+#red {
+    border-color: whitesmoke;
+    border-width: 2px;
+    background-color: red;
+}
+
+#yellow {
+    border-color: whitesmoke;
+    border-width: 2px;
+    background-color: yellow;
+}
+
+#green {
+    border-color: whitesmoke;
+    border-width: 2px;
+    background-color: green;
+}
+
+.footer {
+text-align: center;
+font-family: 'Fascinate Inline', cursive;
+font-size: 2rem;
+color: rgba(255, 0, 0, 0.329);
+}
